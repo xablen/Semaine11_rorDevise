@@ -46,4 +46,5 @@ group :development do
 end
 
 gem 'devise', '~> 3.5', '>= 3.5.3'
+gem 'pundit', '~> 1.0', '>= 1.0.1'
 
